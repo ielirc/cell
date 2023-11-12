@@ -1,0 +1,19 @@
+.eb-infobox-wrapper.eb-infobox-u71dm3p {padding-top: 50px;padding-right: 30px;padding-left: 30px;padding-bottom: 75px;box-shadow: rgba(2,2,2,1) 20px 0px 0px 0px inset;background-image: linear-gradient(145deg,rgba(230,94,219,1) 23%,rgba(161,52,229,1) 76%);transition: background .5s,border .5s,border-radius .5s,box-shadow .5s;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p:hover {box-shadow: rgba(2,2,2,1) 20px 0px 0px 0px inset;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p:before {transition: background .5s,opacity .5s,filter .5s;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .infobox-wrapper-inner {flex-direction: row;gap: 20px;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .icon-img-wrapper {align-self: flex-start;margin-top: 0px;margin-bottom: 0px;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .infobox-wrapper-inner img {border-top-left-radius: 36px;border-bottom-right-radius: 20px;width: 267px;height: auto;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .contents-wrapper {flex: 1;text-align: left;text-align: center;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .title {font-family: u0022Ralewayu0022,sans-serif;font-size: 60px;font-weight: 700;padding-top: 18px;padding-bottom: 0px;color: rgba(0,0,0,1);}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .description {font-family: u0022Ralewayu0022,sans-serif;font-size: 18px;font-weight: 600;padding-top: 15px;padding-bottom: 30px;color: #fff;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .contents-wrapper .eb-infobox-btn-wrapper {text-align: center;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .contents-wrapper .infobox-btn {font-family: u0022Ralewayu0022,sans-serif;font-size: 20px;font-weight: 800;padding-top: 15px;padding-right: 30px;padding-left: 30px;padding-bottom: 15px;background-color: rgba(255,255,255,1);position: relative;overflow: hidden;z-index: 1;border-radius: 10px;color: rgba(0,0,0,1);transition: all .5s,background .5s,border .5s,border-radius .5s,box-shadow .5s;}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .contents-wrapper .infobox-btn:hover {color: rgba(255,255,255,1);}
+.eb-infobox-wrapper.eb-infobox-u71dm3p .contents-wrapper .infobox-btn:before {content: u0022 u0022;position: absolute;left: 0;top: 0;right: 0;bottom: 0;z-index: -1;opacity: 0;transition: all .5s;background-color: rgba(0,0,0,1);}
+.wp-admin .eb-parent-eb-infobox-u71dm3p {display: block;opacity: 1;}
+.eb-parent-eb-infobox-u71dm3p {display: block;}
+@media (max-width: 1024px) {.editor-styles-wrapper.wp-embed-responsive .eb-parent-eb-infobox-u71dm3p {display: block;opacity: 1;}
+	.eb-parent-eb-infobox-u71dm3p {display: block;}}
+@media (max-width: 767px) {.editor-styles-wrapper.wp-embed-responsive .eb-parent-eb-infobox-u71dm3p {display: block;opacity: 1;}
+	.eb-parent-eb-infobox-u71dm3p {display: block;}}
